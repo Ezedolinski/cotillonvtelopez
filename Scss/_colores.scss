@@ -1,0 +1,18 @@
+// Paleta de colores para usar en el proyecto
+
+$color1 :#f390ff;
+$color2 :#ff82f6;
+$color3 :#ffa8c4;
+$color4 :#ffd7b6;
+$color5 :#fff5ba;
+
+.fondo_proyecto{
+    background: linear-gradient($color1, $color4);
+}
+
+.article__color-fondo{
+    background: $color3;
+}
+body{
+    background:$color4;
+}

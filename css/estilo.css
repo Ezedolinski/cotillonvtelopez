@@ -1,0 +1,66 @@
+.footer__tamanioLogo {
+  width: 20%; }
+
+.logoCotillon {
+  width: 75%; }
+
+.footer_logoCotillon {
+  width: 40%; }
+
+.navbar-nav > li {
+  padding-left: 30px;
+  padding-right: 30px; }
+
+.carousel-item img {
+  height: 400px; }
+
+.fondo_proyecto {
+  background: linear-gradient(#f390ff, #ffd7b6); }
+
+.article__color-fondo {
+  background: #ffa8c4; }
+
+body {
+  background: #ffd7b6; }
+
+.carousel {
+  margin-top: 5%; }
+
+.footer__ubicacion-whatsapp {
+  margin-top: 30px; }
+
+.ubicacion__logos_redes {
+  display: flex;
+  justify-content: center; }
+
+.centrar-footer-a {
+  display: flex;
+  justify-content: center; }
+
+.footer__ubicacionTextoFooter {
+  text-align: center; }
+
+.ubicacion__mapaUbicacion {
+  display: flex;
+  justify-content: center; }
+
+.ubicacion__h3Ubicacion {
+  display: flex;
+  justify-content: center; }
+
+.carousel-item img {
+  margin-top: 0px; }
+
+.texto__section {
+  text-align: center; }
+
+#galeria .col-lg-4 {
+  margin: 0 !important;
+  padding: 25px; }
+
+#galeria img {
+  width: 100%;
+  height: 500px; }
+
+#galeria img:hover {
+  border: 5px solid #ffa8c4; }
